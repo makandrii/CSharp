@@ -1,0 +1,8 @@
+C:\ДУТ\projects\C#\Labs on C#\Labs\Lab_1\bin\Debug\Lab_1.exe.config
+C:\ДУТ\projects\C#\Labs on C#\Labs\Lab_1\bin\Debug\Lab_1.exe
+C:\ДУТ\projects\C#\Labs on C#\Labs\Lab_1\bin\Debug\Lab_1.pdb
+C:\ДУТ\projects\C#\Labs on C#\Labs\Lab_1\obj\Debug\Lab_1.csproj.AssemblyReference.cache
+C:\ДУТ\projects\C#\Labs on C#\Labs\Lab_1\obj\Debug\Lab_1.csproj.SuggestedBindingRedirects.cache
+C:\ДУТ\projects\C#\Labs on C#\Labs\Lab_1\obj\Debug\Lab_1.csproj.CoreCompileInputs.cache
+C:\ДУТ\projects\C#\Labs on C#\Labs\Lab_1\obj\Debug\Lab_1.exe
+C:\ДУТ\projects\C#\Labs on C#\Labs\Lab_1\obj\Debug\Lab_1.pdb
