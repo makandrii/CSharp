@@ -6,6 +6,8 @@ namespace Lab_1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("***Варіант 6***");
+
             int H, R;
             double V;
             bool isHOk = false, isROk = false;

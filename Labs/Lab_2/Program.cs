@@ -6,6 +6,8 @@ namespace Lab_2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("***Варіант 6***");
+
             int nn, nk;
             double result = 0;
             bool isNnOk = false, isNkOk = false;
