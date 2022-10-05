@@ -1,0 +1,15 @@
+C:\ДУТ\projects\C#\Labs on C#\Labs\Lab_4\bin\Debug\net6.0\Lab_4.exe
+C:\ДУТ\projects\C#\Labs on C#\Labs\Lab_4\bin\Debug\net6.0\Lab_4.deps.json
+C:\ДУТ\projects\C#\Labs on C#\Labs\Lab_4\bin\Debug\net6.0\Lab_4.runtimeconfig.json
+C:\ДУТ\projects\C#\Labs on C#\Labs\Lab_4\bin\Debug\net6.0\Lab_4.dll
+C:\ДУТ\projects\C#\Labs on C#\Labs\Lab_4\bin\Debug\net6.0\Lab_4.pdb
+C:\ДУТ\projects\C#\Labs on C#\Labs\Lab_4\obj\Debug\net6.0\Lab_4.csproj.AssemblyReference.cache
+C:\ДУТ\projects\C#\Labs on C#\Labs\Lab_4\obj\Debug\net6.0\Lab_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\ДУТ\projects\C#\Labs on C#\Labs\Lab_4\obj\Debug\net6.0\Lab_4.AssemblyInfoInputs.cache
+C:\ДУТ\projects\C#\Labs on C#\Labs\Lab_4\obj\Debug\net6.0\Lab_4.AssemblyInfo.cs
+C:\ДУТ\projects\C#\Labs on C#\Labs\Lab_4\obj\Debug\net6.0\Lab_4.csproj.CoreCompileInputs.cache
+C:\ДУТ\projects\C#\Labs on C#\Labs\Lab_4\obj\Debug\net6.0\Lab_4.dll
+C:\ДУТ\projects\C#\Labs on C#\Labs\Lab_4\obj\Debug\net6.0\refint\Lab_4.dll
+C:\ДУТ\projects\C#\Labs on C#\Labs\Lab_4\obj\Debug\net6.0\Lab_4.pdb
+C:\ДУТ\projects\C#\Labs on C#\Labs\Lab_4\obj\Debug\net6.0\Lab_4.genruntimeconfig.cache
+C:\ДУТ\projects\C#\Labs on C#\Labs\Lab_4\obj\Debug\net6.0\ref\Lab_4.dll
